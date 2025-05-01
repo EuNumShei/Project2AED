@@ -1,0 +1,3 @@
+C:/Users/Utiizador/Desktop/AED_NOVA/projetoAJUDA/cmake-build-debug/CMakeFiles/projetoAJUDA.dir
+C:/Users/Utiizador/Desktop/AED_NOVA/projetoAJUDA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Utiizador/Desktop/AED_NOVA/projetoAJUDA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
